@@ -24,6 +24,7 @@ flatbuffers==25.2.10
 fonttools==4.58.4
 frozenlist==1.7.0
 fsspec==2025.5.1
+gunicorn==21.2.0
 gradio==5.35.0
 gradio_client==1.10.4
 groovy==0.1.2
