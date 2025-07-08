@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model weights or large data files
+yolov8n-seg.pt
+
+# Environment/config files
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db 
